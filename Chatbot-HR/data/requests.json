@@ -1,0 +1,470 @@
+[
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
+    "timestamp": "2025-05-24T15:01:43.820000+00:00"
+  },
+  {
+    "employee_id": "100046",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 27/05",
+    "timestamp": "2025-05-24T15:05:43.820000+00:00"
+  },
+  {
+    "employee_id": "100045",
+    "leave_type": "annual",
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-20",
+    "reason": "Οικογενειακοί λόγοι",
+    "contact_info": "6971234567",
+    "substitute_employee_id": "100046",
+    "document_url": "https://.../βεβαίωση.pdf",
+    "timestamp": "2025-05-24T15:54:36.147000+00:00",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "1234",
+    "request_type": "change_shift",
+    "details": "Θα ήθελα αλλαγή της βάρδιάς μου για 25/06 σε πρωινή.",
+    "timestamp": "2025-05-24T16:07:39.411899"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Θα ήθελα να αλλάξω βάρδια με τον παναγιώτη",
+    "timestamp": "2025-05-24T16:23:33.059918"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "θέλω να αλλάξω βάρδια με τον παναγιώτη ",
+    "timestamp": "2025-05-24T16:26:25.494920"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "leave_request",
+    "details": "Θα ήθελα να πάρω άδεια στις 27 Ιουνίου",
+    "timestamp": "2025-05-24T16:29:56.753920"
+  },
+  {
+    "employee_id": "1234",
+    "request_type": "feedback",
+    "details": "θέλω αδεια τον αύγουστο",
+    "timestamp": "2025-05-24T16:43:11.800922"
+  },
+  {
+    "employee_id": "12345",
+    "leave_type": "annual",
+    "start_date": "2025-08-10",
+    "end_date": "2025-08-20",
+    "reason": "θέλω άδεια τον αύγουστο",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-24T16:48:53.728918",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123123",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "θέλω άδεια για τον Ιούλιο",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-24T17:03:31.893845",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123123",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "θέλω άδεια για τον Ιούλιο",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-24T17:03:38.552845",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123213",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "Θέλω άδεια για τον ιούνιο",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-24T17:09:55.355884",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123213",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "Θέλω άδεια για τον ιούνιο",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-24T17:09:57.533887",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "θέλω άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-25T15:55:40.482775",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123",
+    "leave_type": "annual",
+    "start_date": "2024-06-10",
+    "end_date": "2024-06-15",
+    "reason": "θέλω άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-25T15:55:43.516968",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
+    "timestamp": "2025-05-25T17:19:21.400000+00:00"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
+    "timestamp": "2025-05-25T17:19:21.400000+00:00"
+  },
+  {
+    "employee_id": "100045",
+    "leave_type": "annual",
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-20",
+    "reason": "Οικογενειακοί λόγοι",
+    "contact_info": "6971234567",
+    "substitute_employee_id": "100046",
+    "document_url": "https://.../βεβαίωση.pdf",
+    "timestamp": "2025-05-25T17:20:01.459000+00:00",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "100045",
+    "leave_type": "annual",
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-20",
+    "reason": "Οικογενειακοί λόγοι",
+    "contact_info": "6971234567",
+    "substitute_employee_id": "100046",
+    "document_url": "https://.../βεβαίωση.pdf",
+    "timestamp": "2025-05-25T17:20:01.459000+00:00",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "100045",
+    "leave_type": "annual",
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-20",
+    "reason": "Οικογενειακοί λόγοι",
+    "contact_info": "6971234567",
+    "substitute_employee_id": "100046",
+    "document_url": "https://.../βεβαίωση.pdf",
+    "timestamp": "2025-05-27T15:23:01.990000+00:00",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "100045",
+    "leave_type": "annual",
+    "start_date": "2024-06-15",
+    "end_date": "2024-06-20",
+    "reason": "Οικογενειακοί λόγοι",
+    "contact_info": "6971234567",
+    "substitute_employee_id": "100046",
+    "document_url": "https://.../βεβαίωση.pdf",
+    "timestamp": "2025-05-27T15:23:01.990000+00:00",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
+    "timestamp": "2025-05-27T15:23:37.035000+00:00"
+  },
+  {
+    "employee_id": "100045",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
+    "timestamp": "2025-05-27T15:23:37.035000+00:00"
+  },
+  {
+    "employee_id": "12ς",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-27T16:06:19.372003",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 24-06-2025: αλλαγή βάρδιας",
+    "timestamp": "2025-05-27T17:23:13.811788"
+  },
+  {
+    "employee_id": "123δ",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 26-06-2025: βάρδια",
+    "timestamp": "2025-05-27T17:54:10.808166"
+  },
+  {
+    "employee_id": "2134",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 2025-08-23: vardia",
+    "timestamp": "2025-05-27T18:13:37.831534"
+  },
+  {
+    "employee_id": "2134",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 20-06-2025: θα ήθελα να ζητήσω αλλαγή βάρδιας",
+    "timestamp": "2025-05-27T18:22:10.164210"
+  },
+  {
+    "employee_id": "231ε",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-08-24",
+    "reason": "thelo adeia",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-05-27T18:28:14.349557",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 20-07-2026: \n            Τρέχουσα ώρα έναρξης: 07:00, \n            Νέα ώρα έναρξης: 15:00, \n            Λεπτομέρειες: βάρδια",
+    "timestamp": "2025-05-27T19:09:34.291434"
+  },
+  {
+    "employee_id": "123456",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για γιθα αυριο: \n            Τρέχουσα ώρα έναρξης: 09:00, \n            Νέα ώρα έναρξης: 10:00, \n            Λεπτομέρειες: θελω να αλλαξω βαρδια γιατι εχω να παω το παιδια καρατε",
+    "timestamp": "2025-05-27T19:13:29.684574"
+  },
+  {
+    "employee_id": "123",
+    "request_type": "feedback",
+    "details": "θελω πατάτες",
+    "timestamp": "2025-05-29T16:41:47.656123"
+  },
+  {
+    "employee_id": "12321",
+    "request_type": "feedback",
+    "details": "12321",
+    "timestamp": "2025-06-06T10:50:09.068771"
+  },
+  {
+    "employee_id": "231",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 23-07-2025: \n            Τρέχουσα ώρα έναρξης: 07:00, \n            Νέα ώρα έναρξης: 15:00, \n            Λεπτομέρειες: βάρδια",
+    "timestamp": "2025-06-06T11:25:42.898016"
+  },
+  {
+    "employee_id": "123",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-25",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T11:26:12.746550",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "1234",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-09-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T11:51:41.578450",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "12321",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T11:52:28.560848",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "23123",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T11:57:21.906169",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "12312",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T12:05:22.980733",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "123123",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "αδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T12:13:42.598274",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "312123",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "έχω να πάω σε κάτι βαπτίσια την κυριακή και είναι απαραίτητο να έχω άδεια εκείνη την ημέρα. παρακαλώ όπως μου την εγκρίνετε",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-06T12:15:18.429222",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "17944",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-08T12:48:20.411417",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "14578",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-13T19:41:39.550528",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "14578",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 24-06-2025: \n            Τρέχουσα ώρα έναρξης: 07:00, \n            Νέα ώρα έναρξης: 15:00, \n            Λεπτομέρειες: βάρδια",
+    "timestamp": "2025-06-13T19:42:08.649869"
+  },
+  {
+    "employee_id": "14578",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "adeia",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-13T22:42:12.232340",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "14578",
+    "request_type": "change_shift",
+    "details": "Αλλαγή βάρδιας για 08-08-2025: \n            Τρέχουσα ώρα έναρξης: 07:00, \n            Νέα ώρα έναρξης: 15:00, \n            Λεπτομέρειες: bardia",
+    "timestamp": "2025-06-13T22:46:51.036687"
+  },
+  {
+    "employee_id": "14578",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-26",
+    "reason": "adeia",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-13T23:33:23.322414",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "15534",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "άδεια για να πάω στον γάμο της αδελφής μου την κυριακή που μας έρχεται",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-06-17T18:57:55.812114",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "14578",
+    "leave_type": "annual",
+    "start_date": "2025-08-24",
+    "end_date": "2025-08-24",
+    "reason": "επιθυμώ άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-08-08T09:52:07.981051",
+    "request_type": "leave_request"
+  },
+  {
+    "employee_id": "14578",
+    "leave_type": "annual",
+    "start_date": "2025-06-24",
+    "end_date": "2025-06-24",
+    "reason": "θέλω άδεια",
+    "contact_info": null,
+    "substitute_employee_id": null,
+    "document_url": null,
+    "timestamp": "2025-08-08T10:38:55.127349",
+    "request_type": "leave_request"
+  }
+]

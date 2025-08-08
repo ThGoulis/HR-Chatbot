@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <title>HR Chatbot - Chat</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="chat-main-container">
+        <div id="chat-header">
+            <img src="https://img.icons8.com/ios-filled/50/0084ff/robot.png" width="32" style="vertical-align: middle;">
+            <span>HR Chatbot</span>
+        </div>
+        <div id="chat-container">
+            <div id="chat-window"></div>
+            <form id="chat-form" autocomplete="off">
+                <input type="text" id="chat-input" placeholder="Γράψε το μήνυμά σου..." autocomplete="off" required>
+                <button type="submit" id="chat-send-btn">
+                    <span>&#9658;</span>
+                </button>
+                <div id="instructions-modal" class="modal" style="display:none;">
+                    <div class="modal-content">
+                        <span class="close" id="close-instructions">&times;</span>
+                        <div id="instructions-text">
+                        <!-- Εδώ θα μπαίνει το περιεχόμενο των οδηγιών -->
+                        </div>
+                    </div>
+                </div>
+                <button id="help-btn" type="button">
+                    <img src="https://img.icons8.com/ios-filled/20/ffffff/info.png" style="vertical-align:middle; margin-right:6px;">Οδηγίες
+                </button>
+            </form>
+        </div>
+    </div>
+    <!-- modal -->
+    <div id="modal" style="display:none; position:fixed; left:0; top:0; width:100vw; height:100vh; background:rgba(0,0,0,0.3); z-index:1000; align-items:center; justify-content:center;">
+        <div style="background:#fff; border-radius:10px; padding:30px 44px; min-width:200px; text-align:center; box-shadow:0 4px 16px #0003;">
+            <span id="modal-message" style="font-size:1.1em;"></span><br><br>
+            <button onclick="closeModal()" style="padding:7px 24px; font-size:1em; background:#1e88e5; color:white; border:none; border-radius:6px;">OK</button>
+        </div>
+    </div>
+    <script type="module" src="./web-app/main.js"></script>
+</body>
+</html>
