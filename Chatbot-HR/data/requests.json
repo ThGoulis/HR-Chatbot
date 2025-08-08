@@ -12,18 +12,6 @@
     "timestamp": "2025-05-24T15:05:43.820000+00:00"
   },
   {
-    "employee_id": "100045",
-    "leave_type": "annual",
-    "start_date": "2024-06-15",
-    "end_date": "2024-06-20",
-    "reason": "Οικογενειακοί λόγοι",
-    "contact_info": "6971234567",
-    "substitute_employee_id": "100046",
-    "document_url": "https://.../βεβαίωση.pdf",
-    "timestamp": "2025-05-24T15:54:36.147000+00:00",
-    "request_type": "leave_request"
-  },
-  {
     "employee_id": "1234",
     "request_type": "change_shift",
     "details": "Θα ήθελα αλλαγή της βάρδιάς μου για 25/06 σε πρωινή.",
@@ -34,12 +22,6 @@
     "request_type": "change_shift",
     "details": "Θα ήθελα να αλλάξω βάρδια με τον παναγιώτη",
     "timestamp": "2025-05-24T16:23:33.059918"
-  },
-  {
-    "employee_id": "100045",
-    "request_type": "change_shift",
-    "details": "θέλω να αλλάξω βάρδια με τον παναγιώτη ",
-    "timestamp": "2025-05-24T16:26:25.494920"
   },
   {
     "employee_id": "100045",
@@ -126,18 +108,6 @@
     "request_type": "leave_request"
   },
   {
-    "employee_id": "123",
-    "leave_type": "annual",
-    "start_date": "2024-06-10",
-    "end_date": "2024-06-15",
-    "reason": "θέλω άδεια",
-    "contact_info": null,
-    "substitute_employee_id": null,
-    "document_url": null,
-    "timestamp": "2025-05-25T15:55:43.516968",
-    "request_type": "leave_request"
-  },
-  {
     "employee_id": "100045",
     "request_type": "change_shift",
     "details": "Αλλαγή βάρδιας από πρωινή σε απογευματινή, 26/05",
@@ -220,12 +190,6 @@
     "document_url": null,
     "timestamp": "2025-05-27T16:06:19.372003",
     "request_type": "leave_request"
-  },
-  {
-    "employee_id": "123",
-    "request_type": "change_shift",
-    "details": "Αλλαγή βάρδιας για 24-06-2025: αλλαγή βάρδιας",
-    "timestamp": "2025-05-27T17:23:13.811788"
   },
   {
     "employee_id": "123δ",
@@ -467,4 +431,5 @@
     "timestamp": "2025-08-08T10:38:55.127349",
     "request_type": "leave_request"
   }
+
 ]
