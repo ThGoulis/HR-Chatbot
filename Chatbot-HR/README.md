@@ -87,11 +87,10 @@ Chatbot-HR/
 ## 7. Testing & Quality
 
 - **Lint:** `ruff check .`
-- **Type‑checking:** `mypy app`
-- **Unit tests:** πρόσθεσε όσα χρειάζονται στο φάκελο `tests/` (pytest).
 
 ---
 
 ## 8. Άδεια
 
 MIT License – δες το αρχείο `LICENSE` (εφόσον προστεθεί).
+
